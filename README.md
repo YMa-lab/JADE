@@ -6,7 +6,7 @@ This repository contains data and saved models associated with our paper:
 
 You can access the data and cached results via the following link:
 
-- [Google Drive Folder](PUT-YOUR-LINK-HERE)
+- [Google Drive Folder](https://drive.google.com/file/d/1QV5QZvz2X9JSCzR1WTj0b0wSXrJG-zUT/view?usp=drive_link)
 
 Please refer to `Jade_dlpfc.py` and `FastJade_dlpfc.py` for running JADE and Fast-JADE respectively. 
 
