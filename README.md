@@ -26,3 +26,7 @@ To reproduce the results presented in our paper from scratch, follow these steps
 For further details, please refer to the accompanying documentation or contact the authors for support.
 
 Enjoy playing around with JADE!
+
+How to cite `JADE`
+-------------------
+Guo, Yuanchuan; Jun S. Liu#; Huimin Cheng#; Ying Ma# (2025). “JADE: Joint Alignment and Deep Embedding for Multi-Slice Spatial Transcriptomics.” NeurIPS 2025
